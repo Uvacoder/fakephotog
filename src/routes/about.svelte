@@ -27,7 +27,8 @@
 		section{
 			display: grid;
 			grid-template-columns: 1fr 1fr;
-			gap:1rem;
+			gap:3.5rem;
+			align-content: center;
 		}
 		#text{
 			align-self: center;
